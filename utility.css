@@ -1,0 +1,41 @@
+/* .border{
+    border: 2px solid red;
+}  */
+.flex{
+    display: flex;
+}
+.justify-content{
+    justify-content: center;
+}
+.align-items{
+    align-items: center;
+}
+.invert{
+    filter: invert(1);
+}
+.rounded-borders{
+    border-radius: 7px;;
+}
+.p-1{
+    padding:10px;
+}
+.p-2{
+    padding:20px;
+}
+.m-2{
+    margin: 5px;
+}
+h3{
+    font-size: 16px;
+}
+h4{
+    font-size: 13px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.bg-cards{
+    background-color: #111111;
+}
+hr{
+    width: 90%;
+}
